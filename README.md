@@ -19,4 +19,5 @@ Combined here are datasets of the average diesel/petrol consumption and their pr
 ## Conclusion:
 
 As you can see the price of diesel and petrol has a very high impact, the average consumption in the other hand did not improved in the last time.
+(it may be interesting to add electric vehicles and their prices)
 
